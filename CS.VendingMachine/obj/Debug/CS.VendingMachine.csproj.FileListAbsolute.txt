@@ -1,0 +1,10 @@
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\bin\Debug\CS.VendingMachine.exe.config
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\bin\Debug\CS.VendingMachine.exe
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\bin\Debug\CS.VendingMachine.pdb
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\bin\Debug\StructureMap.dll
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\bin\Debug\StructureMap.xml
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\obj\Debug\CS.VendingMachine.csprojAssemblyReference.cache
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\obj\Debug\CS.VendingMachine.csproj.CoreCompileInputs.cache
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\obj\Debug\CS.VendingMachine.csproj.CopyComplete
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\obj\Debug\CS.VendingMachine.exe
+C:\Dev\Adhoc Projects\CS.VendingMachine\CS.VendingMachine\obj\Debug\CS.VendingMachine.pdb
